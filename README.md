@@ -1,8 +1,4 @@
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
-
 About This Course:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
